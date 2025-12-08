@@ -9,6 +9,9 @@ Defeating Windows User Account Control by abusing built-in Windows AutoElevate b
 # System Requirements
 
 * **Operating Systems**: Windows 7/8/8.1/10/11 (x86-32/x64, client, some methods however works on server version too)
+```
+✔ Verified to work on **Windows 11 25H2**
+```
 * **User Account**: Administrator account with UAC set on default settings
 
 ## Usage
@@ -34,7 +37,10 @@ akagi64.exe 61
 akagi32.exe 23 c:\windows\system32\calc.exe
 akagi64.exe 61 c:\windows\system32\charmap.exe
 ```
-
+* **In Windows 11 25H2 environment**
+```
+akagi64.exe 43 C:\Windows\System32\calc.exe
+```
 
 > **Note**: Since version 3.5.0, all previously "fixed" methods are considered obsolete and have been removed. If you need them, use [v3.2.x branch](https://github.com/hfiref0x/UACME/tree/v3.2.x).
 
