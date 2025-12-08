@@ -1,0 +1,73 @@
+﻿  cmdline.c
+  hde64.c
+  ldr.c
+  strtoul.c
+  u64tohex.c
+  u64tostr.c
+  ultohex.c
+  ultostr.c
+  windefend.c
+  _filename.c
+  _strcat.c
+  _strcmp.c
+  _strcmpi.c
+  _strcpy.c
+  _strend.c
+  _strlen.c
+  _strncmp.c
+  _strncmpi.c
+  _strncpy.c
+  _strstri.c
+  aic.c
+  appinfo64.c
+  appinfo32.c
+  console.c
+  fusutil.c
+  main.c
+  makecab.c
+  compress.c
+  antonioCoco.c
+  api0cradle.c
+  azagarampur.c
+  dwells.c
+  shellsup.c
+  hakril.c
+  hybrids.c
+  comsup.c
+  methods.c
+  rinn.c
+  tyranid.c
+  wusa.c
+  zcgonvh.c
+  pcasvc7_64.c
+  pcasvc7_32.c
+  pcasvc64.c
+  pcasvc32.c
+  stub.c
+  sup.c
+  test.c
+E:\project\project\off\off\Code\vs\UACME\UACME\New folder\UACME\Source\Akagi\sup.c(4293,1): warning C4221: nonstandard extension used: 'params': cannot be initialized using address of automatic variable 'usText'
+E:\project\project\off\off\Code\vs\UACME\UACME\New folder\UACME\Source\Akagi\sup.c(4292): message : see declaration of 'usText'
+E:\project\project\off\off\Code\vs\UACME\UACME\New folder\UACME\Source\Akagi\sup.c(4676,15): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\project\project\off\off\Code\vs\UACME\UACME\New folder\UACME\Source\Akagi\sup.c(4657,43): warning C4100: 'lpFILE': unreferenced formal parameter
+E:\project\project\off\off\Code\vs\UACME\UACME\New folder\UACME\Source\Akagi\sup.c(4657,24): warning C4100: 'lpFileName': unreferenced formal parameter
+  Creating .\output\x64\Release\Resource.res
+  
+  Using codepage 1252 as default
+  
+  Resource.rc.
+  Writing ICON:1,	lang:0x409,	size 7336
+  Writing ICON:2,	lang:0x409,	size 3240
+  Writing GROUP_ICON:104,	lang:0x409,	size 34.
+  Writing VERSION:1,	lang:0x409,	size 752.
+  Writing RCDATA:100,	lang:0x409,	size 0.
+  Writing RCDATA:200,	lang:0x409,	size 0.
+  Writing RCDATA:103,	lang:0x409,	size 0.
+  Writing RCDATA:104,	lang:0x409,	size 0.
+  Writing RCDATA:300,	lang:0x409,	size 0
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+E:\project\project\off\off\Code\vs\UACME\UACME\New folder\UACME\Source\Akagi\main.c(138): warning C4715: 'ucmInit': not all control paths return a value
+  All 292 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  uacme.vcxproj -> E:\project\project\off\off\Code\vs\UACME\UACME\New folder\UACME\Source\Akagi\.\output\x64\Release\Akagi64.exe

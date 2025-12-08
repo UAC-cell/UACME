@@ -1,0 +1,2 @@
+E:\project\project\off\off\Code\vs\UACME\UACME\New folder\UACME\Source\Akagi\output\Win32\Debug\Akagi.exe
+E:\project\project\off\off\Code\vs\UACME\UACME\New folder\UACME\Source\Akagi\output\Win32\Debug\Akagi.pdb
