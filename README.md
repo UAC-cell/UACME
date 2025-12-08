@@ -884,7 +884,7 @@ akagi64.exe 43 C:\Windows\System32\calc.exe
 * Most methods were developed primarily for x64 systems. While many can work on x86-32 with minor adjustments, 32-bit support is not a focus of this project.
 * For an official Microsoft explanation on why UAC bypasses still exist, see: [Microsoft's stance on UAC](https://devblogs.microsoft.com/oldnewthing/20160816-00/?p=94105)
 
-# Windows 10 support and testing policy
+# Windows 11 25H2 support and testing policy
 * UACMe is tested only with LSTB/LTSC variants (1607/1809) and the current RTM-1 versions
 * For example: if the current version is 2004, it will be tested on 2004 (19041) and the previous 1909 (18363)
 * Insider builds are not supported as methods may be fixed in preview releases
