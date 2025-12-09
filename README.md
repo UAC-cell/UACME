@@ -8,6 +8,15 @@ Defeating Windows User Account Control by abusing built-in Windows AutoElevate b
 * Operating Systems: Windows 7/8/8.1/10/11 (including windows 11 25H2)
 * User Account: Administrator account with UAC set on default settings
 
+# Updated issue
+```
+In previous versions, UAC was performed using a user-specified method for each system among several method_numbers,
+   but the updated version overcomes this problem and implements this operation on all systems using a single method.
+That is, method_number was unified to 43.
+```
+```
+Additionally, the UAC bypass issue that was impossible to achieve in the Windows 25H2 system environment was resolved.
+```
 # Usage
 Run the executable from command line using the following syntax:
 ```
