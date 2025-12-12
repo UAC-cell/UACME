@@ -45,6 +45,7 @@ akagi64.exe 43 c:\windows\system32\charmap.exe
 
 <details>
   <summary>Keys (click to expand/collapse)</summary>
+ 
 1. Author: Leo Davidson
    * Type: Dll Hijack
    * Method: IFileOperation
