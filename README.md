@@ -14,6 +14,7 @@ This project demonstrates multiple UAC bypass techniques and serves as an educat
 
 In older versions, UAC bypass required selecting specific method_number values depending on OS version.
 This update removes that limitation:
+
 ✔ Cleaner Codebase: Consolidation removes duplicated logic from older methods and prepares the project for future updates.
 
 ✔ All operations are now unified under Method 43
