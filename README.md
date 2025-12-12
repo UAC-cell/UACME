@@ -52,3 +52,9 @@ IDE: Microsoft Visual Studio 2019 or 2022
 SDK Requirements:
 Windows 8.1 or Windows 10 SDK (tested with 19041 version)
 NET Framework SDK (tested with 4.8 version)
+
+# Legal Disclaimer
+* This tool is provided for educational and research purposes only
+* We do not take any responsibility for this tool being used in malicious activities
+* We have no affiliation with any "security company" using this code for commercial activities
+* This GitHub repository (hfiref0x/UACME) is the only genuine source for UACMe code
