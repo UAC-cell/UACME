@@ -41,3 +41,14 @@ akagi64.exe 43 [Optional_Command]
 akagi32.exe 43 c:\windows\system32\calc.exe
 akagi64.exe 43 c:\windows\system32\charmap.exe
 ```
+# Protection Measures
+The most effective protection against UAC bypass techniques is using an account without administrative privileges.
+
+# Build instructions
+UACMe is written in C and requires Microsoft Visual Studio 2019 or later to build from source.
+
+### Prerequisites
+IDE: Microsoft Visual Studio 2019 or 2022
+SDK Requirements:
+Windows 8.1 or Windows 10 SDK (tested with 19041 version)
+NET Framework SDK (tested with 4.8 version)
