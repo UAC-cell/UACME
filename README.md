@@ -867,6 +867,10 @@ akagi64.exe 43 c:\windows\system32\charmap.exe
 
 </details>
 
+## 🤝 Contributing
+Contributions, improvements, and research discussions are welcome.
+If you discover issues, new UAC-related behaviors, or platform differences,
+feel free to submit a pull request or open an issue.
 
 # Protection Measures
 The most effective protection against UAC bypass techniques is using an account without administrative privileges.
